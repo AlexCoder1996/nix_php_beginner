@@ -47,7 +47,7 @@ a.disabled {
     color: whitesmoke;
     background-color: rgba(18, 16, 9, 0.9);
 }
-table#table1{
+table{
     border-collapse: collapse;
 }
 td {

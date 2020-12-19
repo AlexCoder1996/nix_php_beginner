@@ -19,7 +19,7 @@
 </nav>
 <main>
     <h3>Урок 2 (Таблица умножения с закрашиванием)</h3>
-    <table id="table1" border="1">
+    <table id="table2" border="1">
         <tr>
             <?php for ($i = 1; $i <= 10; $i++) : ?>
                 <?php if ($i == 6) :?>
