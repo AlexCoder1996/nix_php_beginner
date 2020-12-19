@@ -15,7 +15,7 @@
     <a href="/">Главная</a>
     <a href="lesson1.php">Урок 1</a>
     <a href="lesson2.php" class="disabled">Урок 2</a>
-    <a href="#">Test</a>
+    <a href="lesson3.php">Урок 3</a>
 </nav>
 <main>
     <h3>Урок 2 (Таблица умножения с закрашиванием)</h3>

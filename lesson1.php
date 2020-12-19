@@ -15,7 +15,7 @@
     <a href="/">Главная</a>
     <a href="lesson1.php" class="disabled">Урок 1</a>
     <a href="lesson2.php">Урок 2</a>
-    <a href="#">Test</a>
+    <a href="lesson3.php">Урок 3</a>
 </nav>
 <main>
     <h3>Урок 1 (Таблица умножения)</h3>

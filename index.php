@@ -15,7 +15,7 @@
         <a href="/" class="disabled">Главная</a>
         <a href="lesson1.php">Урок 1</a>
         <a href="lesson2.php">Урок 2</a>
-        <a href="#">Test</a>
+        <a href="lesson3.php">Урок 3</a>
     </nav>
     <main>
         <p>Блок main</p>
