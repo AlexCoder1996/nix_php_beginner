@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>NIX PHP Beginner</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
     <header>
@@ -12,7 +14,7 @@
     <nav>
         <a href="/" class="disabled">Главная</a>
         <a href="lesson1.php">Урок 1</a>
-        <a href="#">Урок 2</a>
+        <a href="lesson2.php">Урок 2</a>
         <a href="#">Test</a>
     </nav>
     <main>

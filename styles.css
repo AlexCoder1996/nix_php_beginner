@@ -53,3 +53,16 @@ table#table1{
 td {
     padding: 10px;
 }
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.blue {
+    color: blue;
+}
+

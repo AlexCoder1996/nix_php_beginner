@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Урок 1</title>
+    <title>Урок 2</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="script.js"></script>
@@ -13,12 +13,12 @@
 </header>
 <nav>
     <a href="/">Главная</a>
-    <a href="lesson1.php" class="disabled">Урок 1</a>
-    <a href="lesson2.php">Урок 2</a>
+    <a href="lesson1.php">Урок 1</a>
+    <a href="lesson2.php" class="disabled">Урок 2</a>
     <a href="#">Test</a>
 </nav>
 <main>
-    <h3>Урок 1 (Таблица умножения)</h3>
+    <h3>Урок 2 (Таблица умножения с закрашиванием)</h3>
     <table id="table1" border="1">
         <tr>
             <?php for ($i = 1; $i <= 10; $i++) : ?>
